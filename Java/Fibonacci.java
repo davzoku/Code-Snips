@@ -10,7 +10,7 @@ public class Fibonacci {
 
         System.out.println( "Fibonacci Number f("+ input + ") = " + fibonacci( input ) );
         System.out.println( "Fibonacci Number f("+ (input-1) + ") = " + fibonacci( input-1 ) );
-        System.out.println( "Fibonacci Number f("+ (input-9) + ") = " + fibonacci( input-2 ) );
+        System.out.println( "Fibonacci Number f("+ (input-2) + ") = " + fibonacci( input-2 ) );
 
     }
 
